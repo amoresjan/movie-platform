@@ -1,0 +1,18 @@
+# Node.js Dependencies
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+
+# Python venv
+venv/
+__pycache__/
+
+# .env dependencies
+*.env
+*.local
+.env.*
+
+# VSCode settings
+.vscode/
+.idea/
+*.iml
