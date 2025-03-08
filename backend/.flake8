@@ -1,0 +1,4 @@
+; TODO: Remove max-line-length and F401 once imports are being used
+[flake8]
+ignore = F401, E501
+max-line-length = 88
